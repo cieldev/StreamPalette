@@ -1,2 +1,1 @@
-# streampallet
-Stream Pallet theme
+stream palette 
