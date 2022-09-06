@@ -1,0 +1,2 @@
+# streampallet
+Stream Pallet theme
